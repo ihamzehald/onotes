@@ -11,6 +11,6 @@ const path = require('path')
 const button = document.getElementById('open_new_window');
 const sqlite3 = require('sqlite3').verbose();
 
-button.a ddEventListener('click', () => {
-    crea teBrowserWindow(null, true);
+button.addEventListener('click', () => {
+    createBrowserWindow(null, true);
 });
