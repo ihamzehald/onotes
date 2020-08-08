@@ -3,6 +3,7 @@ ONotes is a desktop sticky notes built on top of Electron.js
 
 ## How to use
 npm install
+<br>
 npm start
 
 ## Important
